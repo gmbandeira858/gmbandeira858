@@ -1,5 +1,5 @@
 Gabriel Scheidegger
-Análise de dados. Foco total em transformar dados em decisões
+Análise de dados e desenvolvedor. Foco total em transformar dados em decisões e desenvolver soluções, quando necessário.
 
 # Habilidades
 - Power BI
@@ -11,6 +11,7 @@ Análise de dados. Foco total em transformar dados em decisões
 
 # Projetos a destacar
 - Análise de acidentes de trânsito
+- Sistema ERP completo focado em gestão de Lojas Maçônicas
 
 
 # Contato
