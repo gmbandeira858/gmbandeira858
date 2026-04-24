@@ -1,16 +1,17 @@
-## Hi there 👋
+Gabriel Scheidegger
+Análise de dados. Foco total em transformar dados em decisões
 
-<!--
-**gmbandeira858/gmbandeira858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Habilidades
+- Power BI
+- SQL
+- Python
+- Excel avançado
+- Flutter
+- JavaScript
 
-Here are some ideas to get you started:
+# Projetos a destacar
+- Análise de acidentes de trânsito
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Contato
+**Linkedin:** https://www.linkedin.com/in/gabriel-scheidegger-07403b142/
